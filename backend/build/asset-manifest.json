@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.109a59c7.css",
+    "main.js": "/static/js/main.973f99df.js",
+    "static/media/half-moon.png": "/static/media/half-moon.a19e3b93b71ed46b3178.png",
+    "static/media/lotus.png": "/static/media/lotus.6da7a3ef992fb7e7accd.png",
+    "index.html": "/index.html",
+    "main.109a59c7.css.map": "/static/css/main.109a59c7.css.map",
+    "main.973f99df.js.map": "/static/js/main.973f99df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.109a59c7.css",
+    "static/js/main.973f99df.js"
+  ]
+}
